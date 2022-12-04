@@ -1,5 +1,5 @@
-# Learn SQL Application - SQL برنامج تعلم لغة الإستعلام
-Desktop application :computer: to help teacher 👨‍🏫  in practical work (TP) to evaluate the student 👨‍🎓.
+# LSQL: Learning analytics solution for monitoring and analyzing the students'behavior in SQL lab work 
+Learning analytics dashboard Side to help teacher 👨‍🏫  SQL learning environment Side to assist student 👨‍🎓.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -11,19 +11,6 @@ Desktop application :computer: to help teacher 👨‍🏫  in practical work (T
 * We used MVC design pattern
 * Password hashed
 *... and more
-
-## Problematic :worried:
-1. Lack of tools to establish a student knowledge base.
-2. Lack of traceability.
-3. We can not judge the efforts of each student (people who work and who doesn't work).
-4. Lack of time to evaluate the student.
-5. Problem of manual entry in practical work.
-
-## Objectives :smiley:
-1. Gives a portable solution and H24 work to gain this understanding.
-2. Automate manual stains.
-3. Archive students essays at the time of TP.
-4. Help the teacher to evaluate the student.
 
 ## Libraries used
 * JFoenix (Material design)
@@ -105,15 +92,9 @@ Desktop application :computer: to help teacher 👨‍🏫  in practical work (T
 ![screenshot of settings](Screenshots/settings/s4.PNG)
 ![screenshot of settings](Screenshots/settings/s5.PNG)
 
-### Chat
-![screenshot of chat](Screenshots/chat/c.PNG)
-![screenshot of chat 2](Screenshots/chat/c2.PNG)
 
-### About
-![screenshot about](Screenshots/about.PNG)
 
 ## Contributing
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
 If you find any issue just put it in the repository issue section, thank you.
 
-.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
